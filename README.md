@@ -45,6 +45,8 @@ Tachycardia: It is the stage heart beats at the rate above 90 BPM.
 Citing
 @ARTICLE{ ijareeie.com/upload/june/87_Wireless.pdf, AUTHOR={Deshpande, Uttam U. et al.,}, TITLE={Wireless ECG monitoring system with remote data logging using PSoC and CyFi}, JOURNAL={International Journal of Advanced Research in Electrical, Electronics and Instrumentation Engineering}, VOLUME={2}, YEAR={2013}, URL={ https://www.ijareeie.com/upload/june/87_Wireless.pdf }, DOI={ ijareeie.com/upload/june/87_Wireless.pdf }, }
 
+@ARTICLE{ ijareeie.com/upload/2017/february/35_IoT.pdf, AUTHOR={Deshpande, Uttam U. et al.,}, TITLE={Wireless ECG monitoring system with remote data logging using PSoC and CyFi}, JOURNAL={International Journal of Advanced Research in Electrical, Electronics and Instrumentation Engineering}, VOLUME={6}, YEAR={2017}, URL={ https://www.ijareeie.com/upload/2017/february/35_IoT.pdf }, DOI={ ijareeie.com/upload/2017/february/35_IoT.pdf }, }
+
 
 Requirements: Software
 * PSoC Designer 5.0
