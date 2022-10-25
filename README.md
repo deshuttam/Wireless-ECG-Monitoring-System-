@@ -36,5 +36,22 @@ Normal Heart Rate: Normal heart rate ranges from 60 to 90 BPM.
 Tachycardia: It is the stage heart beats at the rate above 90 BPM. 
 ![image](https://user-images.githubusercontent.com/107185323/197838132-d0159a5a-2f02-41a7-acaf-8a691e4df5ea.png)
 
+### The repository includes:
+* `pulsometer_final` source code for ECG Detection and Processing operation.
+* `RF_ULP_TEMP_try` Source code for  RF Transmitter and Receiver operation implementation. 
+* Complete implementation report
+* Working Videos 
 
+Citing
+@ARTICLE{ ijareeie.com/upload/june/87_Wireless.pdf, AUTHOR={Deshpande, Uttam U. et al.,}, TITLE={Wireless ECG monitoring system with remote data logging using PSoC and CyFi}, JOURNAL={International Journal of Advanced Research in Electrical, Electronics and Instrumentation Engineering}, VOLUME={2}, YEAR={2013}, URL={ https://www.ijareeie.com/upload/june/87_Wireless.pdf }, DOI={ ijareeie.com/upload/june/87_Wireless.pdf }, }
+
+
+Requirements: Software
+* PSoC Designer 5.0
+* PSoC Programmer 3.0
+* Sense and Control dashboard 2.0 
+
+## Usage
+Run `main.c` code present `pulsometer_final` folder for ECG Detection and Processing operation.
+Run `main 26-5-13.c` code present `RF_ULP_TEMP_try` folder for RF Transmitter and Receiver operation implementation. 
 
