@@ -54,7 +54,7 @@ Requirements: Software
 * Sense and Control dashboard 2.0 
 
 ## Usage
-Run `main.c` code present `pulsometer_final` folder for ECG Detection and Processing operation.
-Run `main 26-5-13.c` code present `RF_ULP_TEMP_try` folder for RF Transmitter and Receiver operation implementation. 
-Observe the working of the project [Videos](https://drive.google.com/drive/folders/1LUzLhPaz7V2EtEPGK05C7IlRYK8ptlez?usp=sharing) 
+* Run `main.c` code present `pulsometer_final` folder for ECG Detection and Processing operation.
+* Run `main 26-5-13.c` code present `RF_ULP_TEMP_try` folder for RF Transmitter and Receiver operation implementation. 
+* Observe the working of the project [Videos](https://drive.google.com/drive/folders/1LUzLhPaz7V2EtEPGK05C7IlRYK8ptlez?usp=sharing) 
 
